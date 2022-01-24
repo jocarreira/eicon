@@ -1,0 +1,23 @@
+{
+	"idLote" : 2,
+	"pedidos": [
+		{
+			"nPedido" : "411564c0-367b-424b-8312-c7b6ebb910b0",
+			"data" : "2022-02-20",
+			"nomeProduto" : "produto json teste 1",
+			"valor" : 10.1,
+			"qtd" : 1.1,
+			"idCliente" : 2,
+			"vldTotal" : 11.11
+		},
+		{
+			"nPedido" : "c8cede58-9908-4bf7-bace-9e1e3f389ea6",
+			"data" : "2022-02-20",
+			"nomeProduto" : "produto json teste 2",
+			"valor" : 10.2,
+			"qtd" : 1.2,
+			"idCliente" : 2,
+			"vldTotal" : 14.64
+		}
+	]
+}
