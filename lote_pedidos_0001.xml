@@ -1,0 +1,10 @@
+<pedidos>
+	<pedido>
+		<n-controle>980f7ec2-9ac6-472a-85be-96c871e6dedf</n-controle>
+		<data>20/02/2022</data>
+		<nome-produto>produto teste 1</nome-produto>
+		<valor>10.0</valor>
+		<qtd>1.0</qtd>
+		<id-cliente>1</id-cliente>
+	</pedido>
+</pedidos>

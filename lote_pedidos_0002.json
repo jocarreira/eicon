@@ -1,0 +1,14 @@
+{
+	"pedidos": [
+		{
+			"pedido" : {
+				"n-controle" : "411564c0-367b-424b-8312-c7b6ebb910b0",
+				"data" : "20/02/2022",
+				"nome-produto" : "produto teste 2",
+				"valor" : 10.1,
+				"qtd" : 1.1,
+				"id-cliente" : 2
+			}
+		}
+	]
+}

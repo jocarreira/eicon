@@ -1,0 +1,32 @@
+<lote>
+	<idLote>1</idLote>
+	<pedidos>
+		<pedido>
+			<nPedido>980f7ec2-9ac6-472a-85be-96c871e6dedf</nPedido>
+			<data>2022-02-20</data>
+			<nomeProduto>produto teste 1</nomeProduto>
+			<valor>10.0</valor>
+			<qtd>1.0</qtd>
+			<idCliente>1</idCliente>
+			<vldTotal>10.0</vldTotal>
+		</pedido>
+		<pedido>
+			<nPedido>71d09366-da8a-47ea-b324-ad1576b3867a</nPedido>
+			<data>2022-02-20</data>
+			<nomeProduto>produto teste 2</nomeProduto>
+			<valor>10.1</valor>
+			<qtd>1.1</qtd>
+			<idCliente>1</idCliente>
+			<vldTotal>11.11</vldTotal>
+		</pedido>
+		<pedido>
+			<nPedido>045c49cd-e09d-49e9-95aa-1fc9e801f455</nPedido>
+			<data>2022-02-20</data>
+			<nomeProduto>produto teste 3</nomeProduto>
+			<valor>10.2</valor>
+			<qtd>1.2</qtd>
+			<idCliente>2</idCliente>
+			<vldTotal>14.64</vldTotal>
+		</pedido>
+	</pedidos>
+</lote>
